@@ -1,0 +1,416 @@
+{
+  "Dầu gội": {
+    "query_rewrite": {
+      "fe_query_write_status": 0,
+      "rewrite_keyword": null,
+      "hint_keywords": null,
+      "ori_keyword": "dầu gội",
+      "ori_total_count": 6000,
+      "rewrite_type": null
+    },
+    "items": [
+      {
+        "item_basic": {
+          "itemid": 7681301862,
+          "shopid": 400589752,
+          "name": "Dầu Gội Sạch Gàu Nấm DEGO 80ml Dứt Điểm Gàu Ngứa & Nấm Da Đầu Sau 1 Tuần",
+          "brand": "+DEGOPHARMA",
+          "image": "vn-11134207-7ras8-mbdccpgby3lfee",
+          "price": 21900000000,
+          "price_before_discount": 32000000000,
+          "historical_sold": 30000,
+          "item_rating": {
+            "rating_star": 4.909684274438373,
+            "rating_count": [
+              6588,
+              42,
+              8,
+              78,
+              247,
+              6213
+            ],
+            "rcount_with_context": 2680,
+            "rcount_with_image": 2082
+          }
+        }
+      },
+      {
+        "item_basic": {
+          "itemid": 40068048463,
+          "shopid": 458546292,
+          "name": "Dầu gội khô phồng tóc Grace and Glow Velvet Opium/Daisy Breeze 150ml kiềm dầu lâu bết giúp giải cứu tóc bết lưu",
+          "brand": "GRACE AND GLOW",
+          "image": "vn-11134207-81ztc-mlq0hbus4jk5af",
+          "price": 13900000000,
+          "price_before_discount": 20900000000,
+          "historical_sold": 100000,
+          "item_rating": {
+            "rating_star": 4.849068322981366,
+            "rating_count": [
+              1610,
+              16,
+              14,
+              29,
+              79,
+              1472
+            ],
+            "rcount_with_context": 716,
+            "rcount_with_image": 667
+          }
+        }
+      },
+      {
+        "item_basic": {
+          "itemid": 592429762,
+          "shopid": 37147137,
+          "name": "Dầu gội ngăn ngừa, giảm rụng tóc, giúp tóc chắc khỏe, dày dặn Vichy Dercos Hairloss SỐ 1 Việt Nam được khuyên dùng 200ml",
+          "brand": "Vichy",
+          "image": "sg-11134201-824hv-mpm4vo76aivh9d",
+          "price": 36500000000,
+          "price_before_discount": 41500000000,
+          "historical_sold": 40000,
+          "item_rating": {
+            "rating_star": 4.877348643006263,
+            "rating_count": [
+              1918,
+              24,
+              8,
+              24,
+              67,
+              1795
+            ],
+            "rcount_with_context": 982,
+            "rcount_with_image": 871
+          }
+        }
+      },
+      {
+        "item_basic": {
+          "itemid": 28941886545,
+          "shopid": 1615257324,
+          "name": "🌿 Dầu Gội Đầu và Dầu Xả The Cocoon Original Việt Nam 500ml - Mỹ phẩm thuần chay chính hãng",
+          "brand": "THE COCOON ORIGINAL VIETNAM",
+          "image": "vn-11134207-81ztc-mkd87p7qyy9w55",
+          "price": 15660000000,
+          "price_before_discount": 16200000000,
+          "historical_sold": 10000,
+          "item_rating": {
+            "rating_star": 4.953836556456644,
+            "rating_count": [
+              1603,
+              6,
+              2,
+              0,
+              44,
+              1551
+            ],
+            "rcount_with_context": 365,
+            "rcount_with_image": 340
+          }
+        }
+      },
+      {
+        "item_basic": {
+          "itemid": 43104277578,
+          "shopid": 1397276155,
+          "name": "Combo 2 Dầu Gội Clear Thảo Dược, Gừng Hoa Cúc Nuôi Dưỡng Da Đầu Từ Gốc, Sạch Gàu Và Giảm Gãy Rụng 630g",
+          "brand": "CLEAR",
+          "image": "vn-11134207-81ztc-mpisoydozr40e1",
+          "price": 39500000000,
+          "price_before_discount": 43000000000,
+          "historical_sold": 40000,
+          "item_rating": {
+            "rating_star": 4.633265167007498,
+            "rating_count": [
+              8888,
+              473,
+              127,
+              267,
+              428,
+              7593
+            ],
+            "rcount_with_context": 3809,
+            "rcount_with_image": 3178
+          }
+        }
+      }
+    ],
+    "_note": "Trimmed to 5 of 59 items for portfolio demo"
+  },
+  "Dầu gội nam": {
+    "query_rewrite": {
+      "fe_query_write_status": 0,
+      "rewrite_keyword": null,
+      "hint_keywords": null,
+      "ori_keyword": "dầu gội nam",
+      "ori_total_count": 6000,
+      "rewrite_type": null
+    },
+    "items": [
+      {
+        "item_basic": {
+          "itemid": 7681301862,
+          "shopid": 400589752,
+          "name": "Dầu Gội Sạch Gàu Nấm DEGO 80ml Dứt Điểm Gàu Ngứa & Nấm Da Đầu Sau 1 Tuần",
+          "brand": "+DEGOPHARMA",
+          "image": "vn-11134207-7ras8-mbdccpgby3lfee",
+          "price": 21900000000,
+          "price_before_discount": 32000000000,
+          "historical_sold": 30000,
+          "item_rating": {
+            "rating_star": 4.909684274438373,
+            "rating_count": [
+              6588,
+              42,
+              8,
+              78,
+              247,
+              6213
+            ],
+            "rcount_with_context": 2680,
+            "rcount_with_image": 2082
+          }
+        }
+      },
+      {
+        "item_basic": {
+          "itemid": 29436520787,
+          "shopid": 1521370539,
+          "name": "Dầu Gội Nam 4IN1 Toàn Thân WIN MEN Sạch Gàu và Giảm Gãy Rụng 540G",
+          "brand": "WIN MEN",
+          "image": "vn-11134207-81ztc-mpc28qye3yma45",
+          "price": 17000000000,
+          "price_before_discount": 32000000000,
+          "historical_sold": 181,
+          "item_rating": {
+            "rating_star": 4.904761904761905,
+            "rating_count": [
+              63,
+              0,
+              0,
+              1,
+              4,
+              58
+            ],
+            "rcount_with_context": 24,
+            "rcount_with_image": 16
+          }
+        }
+      },
+      {
+        "item_basic": {
+          "itemid": 45010970656,
+          "shopid": 469248922,
+          "name": "Dầu Gội Oniiz ZeroG Minisize 35ml - Dầu Gội Đầu Hương Nước Hoa Nam Tính, Sạch Gàu, Nhỏ Gọn Bỏ Túi Du Lịch",
+          "brand": "oniiz",
+          "image": "vn-11134207-81ztc-moj7xyqat1qm48",
+          "price": 5900000000,
+          "price_before_discount": 9500000000,
+          "historical_sold": 631,
+          "item_rating": {
+            "rating_star": 4.945454545454545,
+            "rating_count": [
+              55,
+              0,
+              0,
+              0,
+              3,
+              52
+            ],
+            "rcount_with_context": 4,
+            "rcount_with_image": 2
+          }
+        }
+      },
+      {
+        "item_basic": {
+          "itemid": 50406659353,
+          "shopid": 1602742335,
+          "name": "[PHIÊN BẢN MỚI] Sữa Tắm Gội Nam 3in1 ICE MAN KING MONSTER – Mát Lạnh Giải Nhiệt Mùa Hè, Hương Nước Hoa Nam Tính",
+          "brand": "King Monter",
+          "image": "vn-11134207-81ztc-mo3iv7f3wr2b0d",
+          "price": 24200000000,
+          "price_before_discount": 39900000000,
+          "historical_sold": 49,
+          "item_rating": {
+            "rating_star": 5,
+            "rating_count": [
+              9,
+              0,
+              0,
+              0,
+              0,
+              9
+            ],
+            "rcount_with_context": 3,
+            "rcount_with_image": 3
+          }
+        }
+      },
+      {
+        "item_basic": {
+          "itemid": 46811250573,
+          "shopid": 140586149,
+          "name": "[ĐỘC QUYỀN ONLINE] Tắm gội 2in1 / Dầu gội cho nam Romano Gen Z hương Sea Breeze/ Forest Cedar (420g x 2)",
+          "brand": "Romano",
+          "image": "sg-11134201-824hp-mpltilxsent83d",
+          "price": 17900000000,
+          "price_before_discount": 29900000000,
+          "historical_sold": 1000,
+          "item_rating": {
+            "rating_star": 4.756756756756757,
+            "rating_count": [
+              37,
+              1,
+              0,
+              2,
+              1,
+              33
+            ],
+            "rcount_with_context": 15,
+            "rcount_with_image": 15
+          }
+        }
+      }
+    ],
+    "_note": "Trimmed to 5 of 58 items for portfolio demo"
+  },
+  "Dầu gội nước hoa": {
+    "query_rewrite": {
+      "fe_query_write_status": 0,
+      "rewrite_keyword": null,
+      "hint_keywords": null,
+      "ori_keyword": "dầu gội nước hoa",
+      "ori_total_count": 6000,
+      "rewrite_type": null
+    },
+    "items": [
+      {
+        "item_basic": {
+          "itemid": 41969366840,
+          "shopid": 1602742335,
+          "name": "Sữa tắm gội nam King Monster hương nước hoa cao cấp 350ml",
+          "brand": "King Monster",
+          "image": "vn-11134207-81ztc-mo3vw0uus0lf67",
+          "price": 24099900000,
+          "price_before_discount": 36500000000,
+          "historical_sold": 10000,
+          "item_rating": {
+            "rating_star": 4.924050632911392,
+            "rating_count": [
+              1264,
+              3,
+              1,
+              2,
+              77,
+              1181
+            ],
+            "rcount_with_context": 144,
+            "rcount_with_image": 138
+          }
+        }
+      },
+      {
+        "item_basic": {
+          "itemid": 50406659353,
+          "shopid": 1602742335,
+          "name": "[PHIÊN BẢN MỚI] Sữa Tắm Gội Nam 3in1 ICE MAN KING MONSTER – Mát Lạnh Giải Nhiệt Mùa Hè, Hương Nước Hoa Nam Tính",
+          "brand": "King Monter",
+          "image": "vn-11134207-81ztc-mo3iv7f3wr2b0d",
+          "price": 24200000000,
+          "price_before_discount": 39900000000,
+          "historical_sold": 49,
+          "item_rating": {
+            "rating_star": 5,
+            "rating_count": [
+              9,
+              0,
+              0,
+              0,
+              0,
+              9
+            ],
+            "rcount_with_context": 3,
+            "rcount_with_image": 3
+          }
+        }
+      },
+      {
+        "item_basic": {
+          "itemid": 46503050145,
+          "shopid": 1568738795,
+          "name": "Dầu Gội Đầu OMEN 2In1 Hương Nước Thơm Lâu, Sữa Tắm Gội Nam Giúp Làm Sạch Gầu Giảm Ngứa - 520gr",
+          "brand": "OMEN",
+          "image": "vn-11134207-81ztc-modtd6r4q4952c",
+          "price": 17900000000,
+          "price_before_discount": 25000000000,
+          "historical_sold": 40,
+          "item_rating": {
+            "rating_star": 4.75,
+            "rating_count": [
+              12,
+              0,
+              0,
+              0,
+              3,
+              9
+            ],
+            "rcount_with_context": 2,
+            "rcount_with_image": 1
+          }
+        }
+      },
+      {
+        "item_basic": {
+          "itemid": 29755506350,
+          "shopid": 412741369,
+          "name": "Dầu Gội Hương Nước Hoa X-Men For Boss Perfumed Shampoo Motion Hương Năng Động Tươi Mát 650gr",
+          "brand": "X-Men",
+          "image": "vn-11134201-7ra0g-m7fv27o68ct4ad",
+          "price": 18400000000,
+          "price_before_discount": 22800000000,
+          "historical_sold": 351,
+          "item_rating": {
+            "rating_star": 4.952702702702703,
+            "rating_count": [
+              296,
+              0,
+              0,
+              2,
+              10,
+              284
+            ],
+            "rcount_with_context": 63,
+            "rcount_with_image": 59
+          }
+        }
+      },
+      {
+        "item_basic": {
+          "itemid": 44552033147,
+          "shopid": 1521370539,
+          "name": "[DEAL SỈ] Sữa Tắm Gội Vệ Sinh Nam 4IN1 Toàn Thân WIN MEN Hương Nước Hoa Sạch Sâu 350G",
+          "brand": "WIN MEN",
+          "image": "vn-11134207-81ztc-moq7qn0zs5xo0c",
+          "price": 27000000000,
+          "price_before_discount": 38000000000,
+          "historical_sold": 77,
+          "item_rating": {
+            "rating_star": 5,
+            "rating_count": [
+              15,
+              0,
+              0,
+              0,
+              0,
+              15
+            ],
+            "rcount_with_context": 4,
+            "rcount_with_image": 3
+          }
+        }
+      }
+    ],
+    "_note": "Trimmed to 5 of 60 items for portfolio demo"
+  }
+}

@@ -1,0 +1,14 @@
+# Bỏ qua các file cấu hình chứa mật khẩu
+.env
+
+# Bỏ qua các file dữ liệu thô và quá nặng
+*.csv
+*.xlsx
+# Ngoại trừ các file Template hoặc Output bạn muốn show trong portfolio
+!**/1_Template/*.xlsx
+!**/3_Output/*.xlsx
+
+# Bỏ qua tất cả file JSON lớn
+*.json
+# Ngoại trừ các file sample nhỏ để minh họa cấu trúc
+!**/3_Output/sample_*.json
