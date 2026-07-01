@@ -8,7 +8,9 @@
 !**/1_Template/*.xlsx
 !**/3_Output/*.xlsx
 !Logistics & Fintech COD Credit Scoring Model/**/*.xlsx
+!MCN_Shop_Live_Performance_Dashboard/**/*.xlsx
 # Bỏ qua tất cả file JSON lớn
 *.json
 # Ngoại trừ các file sample nhỏ để minh họa cấu trúc
 !**/3_Output/sample_*.json
+!MCN_Shop_Live_Performance_Dashboard/**/*.json
