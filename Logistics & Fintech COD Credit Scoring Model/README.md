@@ -1,6 +1,6 @@
 # Logistics & Fintech COD Credit Scoring Model
 
-> **Role:** Technical Data Analyst
+> **Role:** Technical Data Analyst  
 > **Tech Stack:** SQL · Metabase · Data Mapping · Dashboard Mockup  
 > **Domain:** Logistics & Fintech (Credit Scoring)
 > 
