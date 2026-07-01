@@ -7,7 +7,7 @@
 # Ngoại trừ các file Template hoặc Output bạn muốn show trong portfolio
 !**/1_Template/*.xlsx
 !**/3_Output/*.xlsx
-!Logistics & Fintech COD Credit Scoring Model/**/*.xlsx
+!Logistics_Fintech_COD_Credit_Scoring_Model/**/*.xlsx
 !MCN_Shop_Live_Performance_Dashboard/**/*.xlsx
 # Bỏ qua tất cả file JSON lớn
 *.json
