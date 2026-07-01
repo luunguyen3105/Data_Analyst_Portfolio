@@ -15,6 +15,13 @@ Native platform analytics—such as the **Shopee Live Dashboard** and **TikTok P
 - They do not allow deep-dive analysis into how specific *products* performed across different livestreams over time.
 - They offer no competitive insights or product recommendations to optimize the next livestream.
 
+<div align="center">
+  <i>Fragmented, per-session Native Analytics Views (Pain Point)</i><br>
+  <img src="img/shopee_live_session_detail.png" width="32%">
+  <img src="img/shopee_dashboard_product_in_live.png" width="32%">
+  <img src="img/shopee_marketing_center.png" width="32%">
+</div>
+
 ## 2. My Role & The Solution
 
 I owned this project from end to end, building a centralized **Livestream Performance Dashboard** that transforms raw, fragmented API data from these platforms into actionable business intelligence. 

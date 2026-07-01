@@ -1,0 +1,13 @@
+flagembedding>=1.3.5
+pandas>=2.0.0
+pyyaml>=6.0
+sentence-transformers>=4.1.0
+torch>=2.7.1
+transformers[torch]>=4.53.0
+pytorch-lightning
+torchmetrics
+lightning>=2.5.2
+tensorboard>=2.19.0
+
+# Optional: streamlit run demo/app.py
+# streamlit>=1.30.0

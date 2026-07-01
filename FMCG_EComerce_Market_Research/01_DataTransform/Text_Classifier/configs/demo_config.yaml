@@ -1,0 +1,27 @@
+# Lightweight config for quick demo (CPU-friendly).
+# For full config matching the original framework, use base_config.yaml
+project_name: "product_category_demo"
+data:
+  train_path: "data/sample/train.csv"
+  output_dir: "output"
+  min_label_count: 2
+  max_label_count: 50
+  max_length: 256
+model:
+  # Lightweight model for quick demo. Swap to BAAI/bge-m3 or namdp-ptit/ViDense for production.
+  embedding_model_name: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  freeze_embedder: true
+  classifier_head:
+    dropout: 0.1
+training:
+  device: "cuda"
+  epochs: 20
+  batch_size: 16
+  learning_rate: 0.001
+  weight_decay: 0.01
+  optimizer: "AdamW"
+  patience: 5
+evaluation:
+  batch_size: 32
+reproducibility:
+  seed: 42

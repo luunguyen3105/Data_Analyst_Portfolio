@@ -1,0 +1,41 @@
+# Configuration for the text classification framework
+
+project_name: "product_category_demo"
+data:
+  train_path: "data/sample/train.csv" # Path to training data (columns: text, label)
+  output_dir: "output"
+  min_label_count: 2 # Minimum number of samples per label
+  max_label_count: 100 # Maximum number of samples per label
+  max_length: 300 # Maximum length of text
+model:
+  # Choose the embedding model. Options:
+  # embedding_model_name: 'Qwen/Qwen3-Embedding-8B' # acc=76.16% epoch=9; params=7570M - top 1
+  # embedding_model_name: 'BAAI/bge-m3' # acc=74.02%; epoch=07; params=568M
+  embedding_model_name: 'namdp-ptit/ViDense' # acc=72.3%; epoch=16; params=560M
+  # embedding_model_name: 'intfloat/multilingual-e5-large' # acc=71.02%; epoch=23; params=560M
+  # embedding_model_name: 'GreenNode/GreenNode-Embedding-Large-VN-Mixed-V1' # acc=72.59% epoch=13; params=568M
+  # embedding_model_name: 'Salesforce/SFR-Embedding-Mistral' # acc=64.16% epoch=23; params=7110M
+  # embedding_model_name: 'intfloat/multilingual-e5-base' # acc=70.21%; epoch=20; params=278M
+  # embedding_model_name: 'intfloat/multilingual-e5-large-instruct' # acc=68.96%; epoch=34; params=560M
+  # embedding_model_name: 'intfloat/e5-mistral-7b-instruct' # acc=69.18; epoch=17; params=7110M
+  # embedding_model_name: 'Salesforce/SFR-Embedding-2_R' # acc=63.37% epoch=21; params=7110M
+  # embedding_model_name: 'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2' # lightweight demo
+  freeze_embedder: true # Freeze the weights of the embedding model
+
+  classifier_head:
+    dropout: 0.1
+
+training:
+  device: "cuda" # "cuda" or "cpu"
+  epochs: 50
+  batch_size: 16
+  learning_rate: 0.001
+  weight_decay: 0.01
+  optimizer: "AdamW" # Options: AdamW, SGD, etc.
+  patience: 5 # For early stopping
+
+evaluation:
+  batch_size: 64
+
+reproducibility:
+  seed: 42
