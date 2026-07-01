@@ -49,3 +49,15 @@ This project heavily utilized **ClickHouse** for big data processing. The SQL sc
 
 - 📂 **`/3_Dashboard Layout`**
   - Wireframes and mockup structures for the final customer-facing discovery tool.
+
+---
+
+## 5. Dashboard Layout Mockups
+
+Below are the mockups designed to translate the complex backend data structures into an intuitive, user-friendly interface for our clients:
+
+### Brand & Channel Group Context
+![Brand & Channel Group Context](3_Dashboard%20Layout/Brand_Channel%20group%20context.png)
+
+### Channel Deep Dive
+![Channel Deep Dive](3_Dashboard%20Layout/Channel%20deep%20dive.png)

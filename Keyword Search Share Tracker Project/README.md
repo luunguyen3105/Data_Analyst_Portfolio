@@ -16,7 +16,9 @@ Native analytics dashboards on Shopee and Lazada do **not** provide search share
 - Track brand visibility trends over time (monthly/quarterly).
 - Identify keyword gaps where competitors dominate and optimize search presence.
 
----
+### Visual Concept
+![Keyword Search Share Context](img/img_search.png)
+![Output Tracker](img/img_output.png)
 
 ## Architecture
 
