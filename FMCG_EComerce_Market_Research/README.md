@@ -32,10 +32,18 @@ Granular, cross-tabulated data delivered directly to client business teams.
 ### 2. Interactive Dashboards (Power BI)
 Visualized market share trends, competitor performance, and brand health metrics for granular category analysis.
 <div align="center">
-  <img src="03_Output_Dashboard/layout_dashboard_Menscare.png" width="48%">
-  <img src="03_Output_Dashboard/layout_dashboard_Fem_market.png" width="48%">
+  <h4>Men's Care Market Overview</h4>
+  <img src="03_Output_Dashboard/layout_dashboard_Menscare.png" width="100%">
+  <br><br>
+  <h4>Brand Tracking & Trendline Analysis</h4>
+  <img src="03_Output_Dashboard/layout_tracking_brand_and_trendline.png" width="100%">
+  <br><br>
+  <h4>Female Care Market Overview</h4>
+  <img src="03_Output_Dashboard/layout_dashboard_Fem_market.png" width="100%">
+  <br><br>
+  <h4>Baby Care Market Overview</h4>
+  <img src="03_Output_Dashboard/layout_babycare_overview.png" width="100%">
 </div>
-
 ### 3. Market Certificates
 Verified and audited data used to issue official "Market Certificates", certifying a client's brand or product as the #1 Top Seller in a specific category or niche.
 <div align="center">
