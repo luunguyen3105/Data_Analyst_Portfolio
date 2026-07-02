@@ -63,7 +63,7 @@ database ready for the market-research dashboard. See [SCOPE.md](SCOPE.md) for c
 
 ## Design notes
 
-- **Hybrid Tagging Engine:** Combines the speed and predictability of a rule-based dictionary with an intelligent **LLM-based fallback (Azure GPT)**. Deterministic rules process 90% of the data instantly, while the LLM handles highly ambiguous, misspelled, or novel SKU names to extract full taxonomy (brand, category, line, gender).
+- **Hybrid Tagging Engine:** Combines the speed and predictability of a rule-based dictionary with an intelligent **LLM-based fallback (Azure GPT)**. To optimize API costs, deterministic rules and text identifiers process the vast majority of the data instantly. The LLM is strictly reserved for highly ambiguous SKUs, or products that require visual/image analysis to accurately differentiate product lines.
 
 - **Existing vs. new split (FR-4):** re-tagging every SKU each month would let dictionary
   tweaks silently shift historical numbers. Existing SKUs keep their prior tags; only new

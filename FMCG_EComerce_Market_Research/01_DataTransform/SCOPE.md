@@ -28,7 +28,7 @@ that feeds the market-research dashboard.
 ## 3. Scope
 
 ### In-scope (the Data Analyst role in this project)
-- Design and maintain a **hybrid tagging engine**: combining a rule/dictionary-based foundation with an **LLM-based Text Classifier** (via Azure OpenAI GPT) to extract category, brand, line, and gender tags from complex or ambiguous SKUs.
+- Design and maintain a **hybrid tagging engine**: combining a rule/dictionary-based foundation with an **LLM-based Text Classifier** (via Azure OpenAI GPT). To optimize API costs, rule-based text identifiers process the majority of SKUs, while the LLM is exclusively routed to handle difficult products or those requiring visual/image context to differentiate product lines.
 - A **monthly master DB merge** pipeline: normalize identifier keys, deduplicate, and split
   existing data (keep tags) vs. new data (re-tag).
 - Handle **combos** (a single listing bundling multiple items) via a revenue-allocation

@@ -21,6 +21,7 @@ Native analytics dashboards on Shopee and Lazada do **not** provide search share
 ### Visual Concept
 ![Keyword Search Share Context](img/img_search.png)
 ![Output Tracker](img/img_output.png)
+![Metric Hot Keyword Tool](img/Top_keywords_search_by_Metric.png)
 
 ## Architecture
 

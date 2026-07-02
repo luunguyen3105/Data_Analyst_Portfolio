@@ -13,7 +13,7 @@ categories: Functional, Data, Quality (QC), and Non-functional.
 | FR-4 | Split **existing SKUs** (keep tags from the previous master, only refresh revenue/units) vs. **new SKUs** (run the tagging engine) | Maintain historical consistency across periods |
 | FR-5 | Run iteratively per data period `--data-period YYYYMM`, supporting `--resume` on interruption | Monthly operation over large data |
 | FR-6 | Allocate **combo** revenue (one listing bundling several items) via `coefficient_in_combo` | Avoid double-counting a combo's revenue |
-| FR-7 | Integrate an **LLM Text Classifier** (Azure OpenAI GPT API) | Accurately extract tags for complex, unstructured SKU names that fail deterministic rule-matching |
+| FR-7 | Integrate an **LLM Text Classifier** (Azure OpenAI GPT API) | Act as a fallback for difficult SKUs or products requiring visual/image context to identify the product line, while standard SKUs are routed to rule-based logic to optimize API costs |
 ## 2. Data requirements
 
 | ID | Requirement |
