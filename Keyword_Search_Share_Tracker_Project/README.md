@@ -15,6 +15,8 @@ Native analytics dashboards on Shopee and Lazada do **not** provide search share
 - See how their products rank against competitors for each target keyword.
 - Track brand visibility trends over time (monthly/quarterly).
 - Identify keyword gaps where competitors dominate and optimize search presence.
+- **Optimize SEO & Product Naming:** Guide brands on renaming their product listings (SKUs) to align with actual search behavior, drastically improving organic ranking.
+- **Validate against "Hot Keywords":** Combine with Metric's built-in Hot Keyword Tool to verify if a partner's products successfully capture traffic from the market's most trending and high-volume search terms.
 
 ### Visual Concept
 ![Keyword Search Share Context](img/img_search.png)
