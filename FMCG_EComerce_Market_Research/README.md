@@ -44,6 +44,7 @@ Visualized market share trends, competitor performance, and brand health metrics
   <h4>Baby Care Market Overview</h4>
   <img src="03_Output_Dashboard/layout_babycare_overview.png" width="100%">
 </div>
+
 ### 3. Market Certificates
 Verified and audited data used to issue official "Market Certificates", certifying a client's brand or product as the #1 Top Seller in a specific category or niche.
 <div align="center">
